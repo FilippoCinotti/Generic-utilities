@@ -77,6 +77,6 @@ This project is licensed under the GNU General Public License v3.0. See the LICE
 # Contact
 For any questions or feedback, please contact:
 
-Name: Filippo Cinotti
-Company: Medacta International SA
-Email: filippo.cinotti96@gmail.com
+- Name: Filippo Cinotti
+- Company: Medacta International SA
+- Email: filippo.cinotti96@gmail.com
